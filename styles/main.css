@@ -1,0 +1,11 @@
+/* this is how you comment in css 
+	IMPORTANT INFO:
+	SELECTOR {
+		RULE1: rule_value;
+		RULE2: rule_value;
+		RULEN:rule_value;
+	}
+*/
+
+h1 {color: red;
+}
